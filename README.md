@@ -8,8 +8,10 @@ HashCash é uma criptomoeda digital experimental capaz de habilitar pagamentos i
 
 # 5x MAIS VELOCIDADE
 
-Bloco: 2 minutos
-Max_Supply: 63.000.000
+Bloco: 2 minutos;
+
+Max_Supply: 63.000.000;
+
 Uma moeda 5x mais rápida que o Bitcoin com um suprimento máximo menor que a Litecoin.
 
 # Tecnologia Peer-to-Peer (P2P)
